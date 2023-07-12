@@ -24,9 +24,12 @@ or
 /assignment-01-lea-sun/images/COVID-19-Visualizations/covid-example-2.png 
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
+git add git-commands.md
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
+git commit -m "Added lines of code used in terminal for each command task."
 
 # (9) Finally, push your changes to GitHub [1 point]
+git push
 
 ```
