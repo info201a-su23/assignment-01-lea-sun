@@ -1,6 +1,6 @@
 # How Context Helps Us Better Understand Data
 ## By Leanna Sun
-## _July 12, 2023_
+ _July 12, 2023_
 
 ## Data Viz Summary 
 ![First graph with no mention of race in the title](MentalHealthInJail.jpeg)
